@@ -1,0 +1,3 @@
+1~Matematicas~4~8:00am/11:00am~30
+2~Ciencias~3~8:00am/10:30am~30
+3~Filosofía~4~1:00pm/3:30pm~25

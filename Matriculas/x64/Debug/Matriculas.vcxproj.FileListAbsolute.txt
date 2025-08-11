@@ -1,0 +1,4 @@
+C:\Users\obalt\OneDrive\Documentos\Dev c++\Progra\Matriculas\x64\Debug\Matriculas.exe
+C:\Users\crisa\Desktop\Matriculas\Matriculas\x64\Debug\Matriculas.exe
+C:\Users\obalt\OneDrive\Escritorio\Matriculas\Matriculas\Matriculas\x64\Debug\Matriculas.exe
+C:\Users\luisp\Documents\Ing Sis\1 Ciclo\Trabajos Progra\Matriculas proyecto\Matriculas\x64\Debug\Matriculas.exe
